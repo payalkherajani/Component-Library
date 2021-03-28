@@ -98,6 +98,7 @@ header{
     font-weight: 600;
     letter-spacing: 3px;
     font-size: 1rem;
+    cursor: pointer;
 }
 .sidebar-list-item:hover{
     color: var(--primary);
