@@ -10,7 +10,7 @@
 .badge-relative{
     position: relative;
 }
-.badge-div{
+.badge-container{
     position: relative;
     color: var(--primary);
 }
@@ -33,7 +33,9 @@
 
 .top{
     top: 0px;
+    right: -2px;
 }
 .bottom{
     bottom: 0px;
+    right: -2px;
 }
