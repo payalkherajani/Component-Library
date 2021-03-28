@@ -127,7 +127,7 @@ footer{
         font-size: 3rem;
     }
     header{
-        position: relative;
+        position: fixed;
         background-color: var(--white);
     }
     footer{
@@ -141,7 +141,7 @@ footer{
     }
     .main{
         grid-area: main;
-        margin-top: 1rem;
+        margin-top: 7rem;
     }
     .hamburger-icon , .hamburger-list{
         display: none;
@@ -151,6 +151,7 @@ footer{
        display: flex;
        flex-direction: column;
        position: fixed;
+       top: 100px;
     }
 
     .display-none{
