@@ -99,6 +99,9 @@ header{
     letter-spacing: 3px;
     font-size: 1rem;
 }
+.sidebar-list-item:hover{
+    color: var(--primary);
+}
 .sidebar-list-group{
     padding: 0.75rem;
 }
