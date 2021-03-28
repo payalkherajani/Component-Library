@@ -21,38 +21,41 @@ header{
     flex-wrap: wrap; 
 }
 
-.toggle{
+.hamburger-icon{
     background-color: var(--primary);
     outline: none;
     border: none;
 }
-.toggle-list{
+.hamburger-list{
   flex-basis: 100%;
   flex-grow: 1;
 }
-.toggle-gray{
+.hamburger-gray{
     background-color: var(--secondary);
 }
-.toggle-blue{
+.hamburger-blue{
     background-color: var(--light-blue);
 }
-.ht-t{
+.heading-rainbow-red{
     color: var(--rainbow-red);
 }
-.ht-a{
+.heading-rainbow-orange{
     color: var(--rainbow-orange);
 }
-.ht-r{
+.heading-rainbow-yellow{
     color: var(--rainbow-yellow);
 }
-.ht-aa{
+.heading-rainbow-green{
     color: var(--rainbow-green);
 }
-.ht-n{
+.heading-rainbow-blue{
     color: var(--rainbow-blue);
 }
-.ht-g{
+.heading-rainbow-indigo{
     color: var(--rainbow-indigo);
+}
+.heading-rainbow-violet{
+    color: var(--rainbow-violet);
 }
 /*---------------------------------------------------- CONTAINER------------------------------------------------- */
 .container{
