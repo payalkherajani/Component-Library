@@ -130,7 +130,7 @@ footer{
         position: relative;
         background-color: var(--white);
     }
-    header, footer{
+    footer{
         margin: 1rem;
     }
     .container{
