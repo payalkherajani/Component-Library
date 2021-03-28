@@ -1,4 +1,4 @@
-**TAARANG**
+**TARANGS**
 
 ---
 A component Library that has in built components using HTML and CSS. Mobile and desktop friendly! 
