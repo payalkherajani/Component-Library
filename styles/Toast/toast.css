@@ -16,7 +16,6 @@
 .toast-body{
     padding: 0.75rem;
 }
-.toast-secondary{
-    background-color: var(--secondary);
-    color: var(--primary);
+.p-zero{
+    padding: 0rem;
 }
