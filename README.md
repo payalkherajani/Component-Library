@@ -12,8 +12,3 @@ A component Library that has in built components using HTML and CSS. Mobile and 
 
 *IN HTML*
 > ``` <link rel="stylesheet" href="https://tarangs.netlify.app/styles/main.css"> ```
-
-![Desktop-view](/assets/Images/desktop-view.png)
-
-
-![Mobile-view](/assets/Images/mobile-view.jpg)
