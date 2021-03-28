@@ -36,16 +36,16 @@
 }
 .card-secondary{
     border: 1px solid rgba(0,0,0,0.1);
-    color: var(--gray);
+    color: var(--primary);
     background-color: var(--white);
 }
 .card-success{
     background-color: var(--light-green);
-    color: var(--green);
+    color: var(--primary)
 }
 .card-danger{
     background-color: var(--light-red);
-    color: var(--danger);
+    color: var(--primary)
 }
 .card-purple{
     background-color: var(--light-purple);
