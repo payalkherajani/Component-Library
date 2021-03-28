@@ -146,7 +146,7 @@ footer{
         grid-area: main;
         margin-top: 1rem;
     }
-    .toggle , .toggle-list{
+    .hamburger-icon , .hamburger-list{
         display: none;
     }
     .sidebar{
